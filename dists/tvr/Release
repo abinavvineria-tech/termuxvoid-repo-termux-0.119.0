@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: tvr repository
+Suite: tvr
+Date: Mon, 01 Dec 2025 13:45:53 UTC
+Components: binary-all
+MD5Sum:
+ 34dfafddc855d37ac0d0889ac32e5a0c 98196 binary-all/binary-all/Packages
+ ee309eeb82c23374f212418484bcccd5 33716 binary-all/binary-all/Packages.xz
+ 2080d908679a4ce3ce7fb6431247b2a6 3609974 binary-all/Contents-all
+ f169ae00753fd88fab98744bfa8467ea 135356 binary-all/Contents-all.xz
+SHA1:
+ 7ee5febaccc48749457812a2bcc09522d36a344e 98196 binary-all/binary-all/Packages
+ 6483f5b2a5c40d985faf012ad1cb2d8845efc4f7 33716 binary-all/binary-all/Packages.xz
+ b81b8a4b80020bf7c4298e4d9e839e7d1af67510 3609974 binary-all/Contents-all
+ 4b5f28a19782daa42db366f8684c1b7f05880569 135356 binary-all/Contents-all.xz
+SHA256:
+ 14b332364fb85da4f1579eaf748f76a7504bf04bec6dfef3ac77eb19061c6ffb 98196 binary-all/binary-all/Packages
+ ae6af6e9868c611cd39b7cc545ba56bd6323377e572ddd886619ab81fc5be9a3 33716 binary-all/binary-all/Packages.xz
+ 7a80ef369e28ed0cacb04bba0fb626a4272435da0ca80b4d03729615eddf30b6 3609974 binary-all/Contents-all
+ 747cab35fed0bff1e9a0da2d415129888c125878b6de579d218fd996f6fe24a1 135356 binary-all/Contents-all.xz
+SHA512:
+ 0d102efbac0748024629a7bcd2cdb93623a1c2fd09f337699b2cb0fbf13782262ddbcead832919d9d60ddddf3d98a37239f215671f49229cd281818d4f3d5625 98196 binary-all/binary-all/Packages
+ e62e42f538b648efb14288ecf0e85e115049c2091bfcb554ac2b6e698a701a481c7131011298d285be583f3fc5a13e6e0922e3834e002e794376c782255939b6 33716 binary-all/binary-all/Packages.xz
+ f6877712aee648fbb0b915b4ca0889f1ba2159ca3184c53e6508296d16ad60922a696a2a45526ebe4b3636d2c5901c223bb6cd487e155e64f5ee86ee94a87f40 3609974 binary-all/Contents-all
+ 91a3623e9d92c8485beb4b96ecb25252aa5cc49b0a1aad5f7241f71c32e6b71dd532fb54d895fa67c0f4769c375cc64933407d16bba52a8e0042dcb0d6dc4998 135356 binary-all/Contents-all.xz
